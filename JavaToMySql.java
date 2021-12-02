@@ -9,8 +9,6 @@ import java.util.Scanner;
 public class JavaToMySql {
 
     public static void main(String[] args) throws Exception {
-        System.out.println("Made by Franchuk I.");
-        System.out.println("Group BI-1");
 
         runTestsLab3();
     }
